@@ -15522,6 +15522,32 @@
     "year": 2026
   },
   {
+    "date": "2026-02-12",
+    "distance": 3591.4,
+    "elevation_gain": 0.0,
+    "id": "17433348203",
+    "moving_time": 1272.0,
+    "name": "Hyrox partial sim run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-12T20:43:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17433367075",
+    "moving_time": 3480.0,
+    "name": "hyrox weight testing and partial sim",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-02-12T20:50:00Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
     "date": "2026-02-13",
     "distance": 14986.0,
     "elevation_gain": 104.6,
@@ -15596,6 +15622,19 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-02-16T22:15:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-17",
+    "distance": 10515.2,
+    "elevation_gain": 109.6,
+    "id": "17435435608",
+    "moving_time": 3718.0,
+    "name": "only crazy bastards run in lightning and hail",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-17T18:35:14Z",
     "type": "Run",
     "year": 2026
   }

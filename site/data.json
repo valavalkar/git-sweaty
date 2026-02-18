@@ -8359,6 +8359,20 @@
       "year": 2026
     },
     {
+      "date": "2026-02-12",
+      "hour": 20,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-12",
+      "hour": 20,
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "year": 2026
+    },
+    {
       "date": "2026-02-13",
       "hour": 6,
       "subtype": "Run",
@@ -8396,6 +8410,13 @@
     {
       "date": "2026-02-16",
       "hour": 22,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 18,
       "subtype": "Run",
       "type": "Run",
       "year": 2026
@@ -17806,6 +17827,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 840.0
+        },
+        "2026-02-12": {
+          "activity_ids": [
+            "17433367075"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3480.0
         }
       },
       "Ride": {
@@ -18060,6 +18090,15 @@
           "elevation_gain": 50.2,
           "moving_time": 7913.0
         },
+        "2026-02-12": {
+          "activity_ids": [
+            "17433348203"
+          ],
+          "count": 1,
+          "distance": 3591.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1272.0
+        },
         "2026-02-13": {
           "activity_ids": [
             "17386170012"
@@ -18087,6 +18126,15 @@
           "distance": 5347.8,
           "elevation_gain": 2.6,
           "moving_time": 1939.0
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "17435435608"
+          ],
+          "count": 1,
+          "distance": 10515.2,
+          "elevation_gain": 109.6,
+          "moving_time": 3718.0
         }
       },
       "Walk": {
@@ -18257,7 +18305,7 @@
       }
     }
   },
-  "generated_at": "2026-02-17T22:47:52.040735+00:00",
+  "generated_at": "2026-02-18T15:20:19.098968+00:00",
   "other_bucket": "OtherSports",
   "repo": "valavalkar/git-sweaty",
   "source": "strava",
