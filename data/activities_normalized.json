@@ -15637,5 +15637,31 @@
     "start_date_local": "2026-02-17T18:35:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 21126.1,
+    "elevation_gain": 131.7,
+    "id": "17446956515",
+    "moving_time": 6836.0,
+    "name": "found another crazy person to run long in the rain",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-18T19:07:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 402.3,
+    "elevation_gain": 0.0,
+    "id": "17446972104",
+    "moving_time": 160.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-18T19:04:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
