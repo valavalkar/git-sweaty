@@ -15663,5 +15663,18 @@
     "start_date_local": "2026-02-18T19:04:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17457630359",
+    "moving_time": 5341.0,
+    "name": "long ass arms",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-19T20:22:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
