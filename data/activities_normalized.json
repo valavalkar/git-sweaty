@@ -15676,5 +15676,31 @@
     "start_date_local": "2026-02-19T20:22:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 21428.4,
+    "elevation_gain": 107.2,
+    "id": "17463089952",
+    "moving_time": 7288.0,
+    "name": "took the long route to btrt breadbelly",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-20T06:13:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17467538581",
+    "moving_time": 3863.0,
+    "name": "chopped Hyrox training\ud83c\udfcb\ufe0f",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-20T19:22:02Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
