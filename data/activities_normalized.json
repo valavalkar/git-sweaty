@@ -15702,5 +15702,18 @@
     "start_date_local": "2026-02-20T19:22:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 6551.6,
+    "elevation_gain": 24.6,
+    "id": "17476045966",
+    "moving_time": 2340.0,
+    "name": "got to 40 miles for the week while planespotting at my favorite sf park \u2708\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-21T09:29:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
