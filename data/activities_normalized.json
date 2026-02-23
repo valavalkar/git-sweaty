@@ -15715,5 +15715,18 @@
     "start_date_local": "2026-02-21T09:29:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 25888.3,
+    "elevation_gain": 0.0,
+    "id": "17491375481",
+    "moving_time": 5357.0,
+    "name": "chasing fresh powder at northstar",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-02-22T10:14:02Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]
