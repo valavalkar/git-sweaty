@@ -15728,5 +15728,18 @@
     "start_date_local": "2026-02-22T10:14:02Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17502032159",
+    "moving_time": 2036.0,
+    "name": "crash out quick gym",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-23T22:08:24Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
