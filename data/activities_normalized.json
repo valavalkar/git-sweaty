@@ -15741,5 +15741,44 @@
     "start_date_local": "2026-02-23T22:08:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 8172.9,
+    "elevation_gain": 25.6,
+    "id": "17507078755",
+    "moving_time": 2480.0,
+    "name": "morning beanies \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-24T07:07:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17513424995",
+    "moving_time": 2932.0,
+    "name": "another quick gym",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-24T17:53:59Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 10166.3,
+    "elevation_gain": 41.4,
+    "id": "17514033254",
+    "moving_time": 2987.0,
+    "name": "beanies showed up for track in the rain \u2614\ufe0f\ud83c\udf27\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-24T19:22:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
