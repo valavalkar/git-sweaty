@@ -15780,5 +15780,18 @@
     "start_date_local": "2026-02-24T19:22:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-25",
+    "distance": 25785.9,
+    "elevation_gain": 118.0,
+    "id": "17526302361",
+    "moving_time": 9138.0,
+    "name": "the bridge hands are much further than I expected\u2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-25T18:53:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
