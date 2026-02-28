@@ -15793,5 +15793,18 @@
     "start_date_local": "2026-02-25T18:53:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 15182.8,
+    "elevation_gain": 158.2,
+    "id": "17542822624",
+    "moving_time": 5467.0,
+    "name": "b. Patisserie CNY with Friday BTRT crew",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-27T06:15:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
