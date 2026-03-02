@@ -15806,5 +15806,18 @@
     "start_date_local": "2026-02-27T06:15:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 5323.5,
+    "elevation_gain": 26.2,
+    "id": "17568081822",
+    "moving_time": 1751.0,
+    "name": "drift run club",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-01T08:16:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
