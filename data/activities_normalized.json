@@ -15819,5 +15819,31 @@
     "start_date_local": "2026-03-01T08:16:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17583468855",
+    "moving_time": 4247.0,
+    "name": "jfc",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-02T18:32:52Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 7265.9,
+    "elevation_gain": 112.4,
+    "id": "17583708140",
+    "moving_time": 2679.0,
+    "name": "the daunting thing about having a weekly mileage goal is that it resets every Monday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-02T20:08:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
