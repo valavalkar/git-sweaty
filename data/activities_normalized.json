@@ -15858,5 +15858,31 @@
     "start_date_local": "2026-03-03T19:14:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 17341.2,
+    "elevation_gain": 138.8,
+    "id": "17602494178",
+    "moving_time": 6600.0,
+    "name": "recovery to the beach",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-04T06:12:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17608719951",
+    "moving_time": 4751.0,
+    "name": "yay arms with Natasha",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-04T17:59:41Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
