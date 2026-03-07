@@ -15897,5 +15897,18 @@
     "start_date_local": "2026-03-05T20:10:01Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 12882.2,
+    "elevation_gain": 169.6,
+    "id": "17626917243",
+    "moving_time": 4780.0,
+    "name": "funny lil route to and from btrt poesia",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-06T06:55:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
