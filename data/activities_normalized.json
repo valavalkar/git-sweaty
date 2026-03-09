@@ -15910,5 +15910,44 @@
     "start_date_local": "2026-03-06T06:55:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 7535.7,
+    "elevation_gain": 67.0,
+    "id": "17655678906",
+    "moving_time": 2658.0,
+    "name": "a whole lot of bumming and a whole lot of not got this run to happen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-07T19:51:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 5525.5,
+    "elevation_gain": 71.8,
+    "id": "17655678833",
+    "moving_time": 2252.0,
+    "name": "beautiful (but scuffed) point reyes run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-08T10:30:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 9669.4,
+    "elevation_gain": 98.2,
+    "id": "17656201701",
+    "moving_time": 2759.0,
+    "name": "It\u2019s starting to feel like Sunday\u2019s only purpose is to hit mileage",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-08T22:10:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
