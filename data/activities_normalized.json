@@ -15949,5 +15949,44 @@
     "start_date_local": "2026-03-08T22:10:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 4961.2,
+    "elevation_gain": 57.6,
+    "id": "17660784231",
+    "moving_time": 1732.0,
+    "name": "morning run home",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-09T07:37:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 16116.6,
+    "elevation_gain": 72.2,
+    "id": "17667821334",
+    "moving_time": 5907.0,
+    "name": "monday night 10 miler",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-09T18:13:45Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17672951260",
+    "moving_time": 3761.0,
+    "name": "chest + back + lunges",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-10T06:28:09Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
