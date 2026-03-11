@@ -15988,5 +15988,18 @@
     "start_date_local": "2026-03-10T06:28:09Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 6449.1,
+    "elevation_gain": 21.6,
+    "id": "17680751906",
+    "moving_time": 2279.0,
+    "name": "recovery laps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-10T18:52:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
