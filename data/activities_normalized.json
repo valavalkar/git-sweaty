@@ -16001,5 +16001,31 @@
     "start_date_local": "2026-03-10T18:52:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17692547861",
+    "moving_time": 3413.0,
+    "name": "nice lil arms",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-11T18:51:06Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 3830.0,
+    "elevation_gain": 94.4,
+    "id": "17692686399",
+    "moving_time": 798.0,
+    "name": "finally back to having a functional bike (or 3)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-11T19:59:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

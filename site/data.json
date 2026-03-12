@@ -8616,6 +8616,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 18,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 19,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18097,6 +18111,15 @@
           "distance": 4542.8,
           "elevation_gain": 30.6,
           "moving_time": 765.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17692686399"
+          ],
+          "count": 1,
+          "distance": 3830.0,
+          "elevation_gain": 94.4,
+          "moving_time": 798.0
         }
       },
       "Rowing": {
@@ -18717,11 +18740,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3761.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17692547861"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3413.0
         }
       }
     }
   },
-  "generated_at": "2026-03-11T15:19:05.372083+00:00",
+  "generated_at": "2026-03-12T15:22:05.102413+00:00",
   "other_bucket": "OtherSports",
   "repo": "valavalkar/git-sweaty",
   "source": "strava",
