@@ -16027,5 +16027,31 @@
     "start_date_local": "2026-03-11T19:59:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "17704252406",
+    "moving_time": 300.0,
+    "name": "Evening Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-12T19:32:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 21887.1,
+    "elevation_gain": 0.0,
+    "id": "17704256383",
+    "moving_time": 3608.0,
+    "name": "gym 60",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-12T19:48:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
