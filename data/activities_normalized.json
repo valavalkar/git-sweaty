@@ -16053,5 +16053,31 @@
     "start_date_local": "2026-03-12T19:48:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 12081.4,
+    "elevation_gain": 96.8,
+    "id": "17711248022",
+    "moving_time": 4337.0,
+    "name": "btrt used to be for the people, now I take them to sf erewhon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-13T06:43:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 11285.1,
+    "elevation_gain": 89.0,
+    "id": "17714251099",
+    "moving_time": 3062.0,
+    "name": "this better work \ud83e\ude79",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-13T17:41:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
