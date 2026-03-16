@@ -16092,5 +16092,18 @@
     "start_date_local": "2026-03-14T10:25:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 27388.3,
+    "elevation_gain": 289.8,
+    "id": "17738069602",
+    "moving_time": 9928.0,
+    "name": "the most scenic way to get to aquatic park\u2026 and 17 miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T13:43:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
