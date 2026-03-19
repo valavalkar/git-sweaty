@@ -16170,5 +16170,18 @@
     "start_date_local": "2026-03-17T19:17:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 16587.8,
+    "elevation_gain": 140.8,
+    "id": "17774902521",
+    "moving_time": 6009.0,
+    "name": "new pineapple cutting meta unlocked",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T19:04:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
