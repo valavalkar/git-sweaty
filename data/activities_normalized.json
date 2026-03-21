@@ -16196,5 +16196,18 @@
     "start_date_local": "2026-03-19T18:19:14Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 14989.4,
+    "elevation_gain": 240.2,
+    "id": "17792940932",
+    "moving_time": 5428.0,
+    "name": "btrt men get matcha",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T06:52:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
