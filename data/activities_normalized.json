@@ -16209,5 +16209,31 @@
     "start_date_local": "2026-03-20T06:52:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17810500799",
+    "moving_time": 3779.0,
+    "name": "ouch but good",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-03-21T19:05:46Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 2414.0,
+    "elevation_gain": 0.0,
+    "id": "17810514336",
+    "moving_time": 720.0,
+    "name": "hiit run component",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T20:49:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
