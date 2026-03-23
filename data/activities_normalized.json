@@ -16235,5 +16235,18 @@
     "start_date_local": "2026-03-21T20:49:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 5680.2,
+    "elevation_gain": 74.4,
+    "id": "17823845118",
+    "moving_time": 1835.0,
+    "name": "eating way too well to only have run a 5k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T15:26:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
