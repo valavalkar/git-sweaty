@@ -16300,5 +16300,18 @@
     "start_date_local": "2026-03-27T10:15:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 12922.6,
+    "elevation_gain": 97.0,
+    "id": "17891114966",
+    "moving_time": 5116.0,
+    "name": "this actually is my first rodeo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T10:07:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
