@@ -16289,6 +16289,19 @@
     "year": 2026
   },
   {
+    "date": "2026-03-26",
+    "distance": 10132.3,
+    "elevation_gain": 0.0,
+    "id": "17908164284",
+    "moving_time": 4732.0,
+    "name": "Hyrox Houston Mixed Doubles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T18:20:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
     "date": "2026-03-27",
     "distance": 4958.8,
     "elevation_gain": 34.4,
@@ -16312,6 +16325,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-03-28T10:07:56Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17905346849",
+    "moving_time": 3611.0,
+    "name": "bouldering with the boys at armadillo",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-03-29T12:24:27Z",
+    "type": "RockClimbing",
     "year": 2026
   }
 ]
