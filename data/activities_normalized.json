@@ -16339,5 +16339,70 @@
     "start_date_local": "2026-03-29T12:24:27Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 5864.4,
+    "elevation_gain": 152.6,
+    "id": "17929569523",
+    "moving_time": 1327.0,
+    "name": "to Scott",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-30T18:43:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 5355.1,
+    "elevation_gain": 54.8,
+    "id": "17929569584",
+    "moving_time": 2112.0,
+    "name": "check elapsed time",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-30T20:08:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 4866.8,
+    "elevation_gain": 43.4,
+    "id": "17929569569",
+    "moving_time": 958.0,
+    "name": "from Scott",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-31T08:11:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 10127.6,
+    "elevation_gain": 38.4,
+    "id": "17933123300",
+    "moving_time": 2839.0,
+    "name": "4x1 mile with a tripod",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T19:20:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17938326457",
+    "moving_time": 2971.0,
+    "name": "quick chest",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-01T06:36:24Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T15:29:32.426982+00:00",
+  "generated_at": "2026-04-01T15:31:54.241302+00:00",
   "years": {
     "1989": {
       "Workout": {
@@ -9551,6 +9551,24 @@
           "distance": 2214.5,
           "elevation_gain": 28.6,
           "moving_time": 497.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17929569523"
+          ],
+          "count": 1,
+          "distance": 5864.4,
+          "elevation_gain": 152.6,
+          "moving_time": 1327.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17929569569"
+          ],
+          "count": 1,
+          "distance": 4866.8,
+          "elevation_gain": 43.4,
+          "moving_time": 958.0
         }
       },
       "RockClimbing": {
@@ -10070,6 +10088,24 @@
           "distance": 12922.6,
           "elevation_gain": 97.0,
           "moving_time": 5116.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17929569584"
+          ],
+          "count": 1,
+          "distance": 5355.1,
+          "elevation_gain": 54.8,
+          "moving_time": 2112.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17933123300"
+          ],
+          "count": 1,
+          "distance": 10127.6,
+          "elevation_gain": 38.4,
+          "moving_time": 2839.0
         }
       },
       "Walk": {
@@ -10335,6 +10371,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2780.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17938326457"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2971.0
         }
       }
     }
