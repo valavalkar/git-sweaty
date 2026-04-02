@@ -16393,6 +16393,19 @@
     "year": 2026
   },
   {
+    "date": "2026-03-31",
+    "distance": 4421.0,
+    "elevation_gain": 30.6,
+    "id": "17945940718",
+    "moving_time": 773.0,
+    "name": "from home",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-31T21:53:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-04-01",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -16403,6 +16416,32 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-04-01T06:36:24Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 5347.0,
+    "elevation_gain": 63.4,
+    "id": "17940576039",
+    "moving_time": 1183.0,
+    "name": "home from gym",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T07:39:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 2111.3,
+    "elevation_gain": 16.8,
+    "id": "17945940717",
+    "moving_time": 732.0,
+    "name": "mailing stuff",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T14:36:46Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
