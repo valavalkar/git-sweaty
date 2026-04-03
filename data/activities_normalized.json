@@ -16443,5 +16443,18 @@
     "start_date_local": "2026-04-01T14:36:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 8212.9,
+    "elevation_gain": 81.2,
+    "id": "17957283850",
+    "moving_time": 3185.0,
+    "name": "stopped in the middle to window shop at a grocery story because I was so hungry",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-02T18:51:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
