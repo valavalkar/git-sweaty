@@ -16456,5 +16456,18 @@
     "start_date_local": "2026-04-02T18:51:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 7434.3,
+    "elevation_gain": 85.6,
+    "id": "17964890076",
+    "moving_time": 2821.0,
+    "name": "le french spot",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T07:11:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
