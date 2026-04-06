@@ -16469,5 +16469,31 @@
     "start_date_local": "2026-04-03T07:11:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 1869.0,
+    "elevation_gain": 46.0,
+    "id": "17992616569",
+    "moving_time": 1208.0,
+    "name": "\ud83c\udfa8\ud83c\udfb1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T12:46:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 30600.3,
+    "elevation_gain": 281.4,
+    "id": "17992236718",
+    "moving_time": 11344.0,
+    "name": "a loop, except part of the loop is the ferry",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T09:06:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
