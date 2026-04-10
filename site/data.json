@@ -8898,6 +8898,13 @@
       "year": 2026
     },
     {
+      "date": "2026-04-06",
+      "hour": 19,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
       "date": "2026-04-07",
       "hour": 7,
       "subtype": "Ride",
@@ -8923,6 +8930,13 @@
       "hour": 19,
       "subtype": "Ride",
       "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 7,
+      "subtype": "Run",
+      "type": "Run",
       "year": 2026
     }
   ],
@@ -19116,6 +19130,15 @@
           "distance": 7096.4,
           "elevation_gain": 20.4,
           "moving_time": 2232.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18042529519"
+          ],
+          "count": 1,
+          "distance": 11281.5,
+          "elevation_gain": 31.0,
+          "moving_time": 3080.0
         }
       },
       "Walk": {
@@ -19154,6 +19177,15 @@
           "distance": 1140.9,
           "elevation_gain": 6.0,
           "moving_time": 1101.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18048358127"
+          ],
+          "count": 1,
+          "distance": 1987.7,
+          "elevation_gain": 31.2,
+          "moving_time": 1625.0
         }
       },
       "WeightTraining": {
@@ -19403,7 +19435,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T15:34:59.053453+00:00",
+  "generated_at": "2026-04-10T15:19:47.572247+00:00",
   "other_bucket": "OtherSports",
   "repo": "valavalkar/git-sweaty",
   "source": "strava",
