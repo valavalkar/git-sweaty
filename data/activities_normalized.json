@@ -16625,5 +16625,18 @@
     "start_date_local": "2026-04-10T07:16:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 42839.2,
+    "elevation_gain": 497.6,
+    "id": "18072450101",
+    "moving_time": 14376.0,
+    "name": "ran to lunch to cure my hangover",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T08:47:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
