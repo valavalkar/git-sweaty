@@ -16627,6 +16627,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-10",
+    "distance": 16483.2,
+    "elevation_gain": 116.2,
+    "id": "18086841285",
+    "moving_time": 4338.0,
+    "name": "sick merch",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-10T18:51:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-04-11",
     "distance": 42839.2,
     "elevation_gain": 497.6,
@@ -16636,6 +16649,32 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-11T08:47:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 1756.1,
+    "elevation_gain": 18.8,
+    "id": "18086841219",
+    "moving_time": 528.0,
+    "name": "bike tune",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T17:12:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 25767.2,
+    "elevation_gain": 207.6,
+    "id": "18087164431",
+    "moving_time": 9316.0,
+    "name": "anything I can do, Natasha can do better",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T16:57:22Z",
     "type": "Run",
     "year": 2026
   }
