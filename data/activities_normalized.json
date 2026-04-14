@@ -16677,5 +16677,18 @@
     "start_date_local": "2026-04-12T16:57:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 4509.5,
+    "elevation_gain": 30.2,
+    "id": "18099409963",
+    "moving_time": 735.0,
+    "name": "skipping gym",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-13T19:11:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
