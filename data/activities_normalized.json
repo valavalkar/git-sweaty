@@ -16690,5 +16690,31 @@
     "start_date_local": "2026-04-13T19:11:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18113282161",
+    "moving_time": 2912.0,
+    "name": "C+B",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-14T18:50:52Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 6668.4,
+    "elevation_gain": 67.8,
+    "id": "18116646159",
+    "moving_time": 2490.0,
+    "name": "ESFWIR",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T20:05:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
