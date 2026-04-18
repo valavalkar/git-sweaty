@@ -16768,5 +16768,31 @@
     "start_date_local": "2026-04-15T08:31:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 8045.7,
+    "elevation_gain": 69.6,
+    "id": "18146677646",
+    "moving_time": 3058.0,
+    "name": "btrt (and breakfast sandwiches) for the soul",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T07:16:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 8038.1,
+    "elevation_gain": 60.0,
+    "id": "18152749490",
+    "moving_time": 1683.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T20:10:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
