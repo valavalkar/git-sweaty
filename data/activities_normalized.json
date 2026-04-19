@@ -16788,11 +16788,24 @@
     "elevation_gain": 60.0,
     "id": "18152749490",
     "moving_time": 1683.0,
-    "name": "Evening Ride",
+    "name": "sunset bike ride turned burger commute",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-17T20:10:56Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 16132.5,
+    "elevation_gain": 111.4,
+    "id": "18166392594",
+    "moving_time": 6174.0,
+    "name": "generative conversations",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T20:13:19Z",
+    "type": "Run",
     "year": 2026
   }
 ]
