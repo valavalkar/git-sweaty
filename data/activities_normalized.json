@@ -16807,5 +16807,18 @@
     "start_date_local": "2026-04-18T20:13:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 24415.3,
+    "elevation_gain": 212.6,
+    "id": "18176750405",
+    "moving_time": 7801.0,
+    "name": "david foster wallace",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T09:20:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
