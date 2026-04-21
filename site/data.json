@@ -9057,6 +9057,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 20,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18731,6 +18752,15 @@
           "distance": 8038.1,
           "elevation_gain": 60.0,
           "moving_time": 1683.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18198917318"
+          ],
+          "count": 1,
+          "distance": 5386.9,
+          "elevation_gain": 74.7,
+          "moving_time": 1069.0
         }
       },
       "RockClimbing": {
@@ -19394,6 +19424,24 @@
           "distance": 24415.3,
           "elevation_gain": 212.6,
           "moving_time": 7801.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18192454470"
+          ],
+          "count": 1,
+          "distance": 5369.1,
+          "elevation_gain": 50.0,
+          "moving_time": 2122.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18198336374"
+          ],
+          "count": 1,
+          "distance": 8959.9,
+          "elevation_gain": 16.6,
+          "moving_time": 2614.0
         }
       },
       "Walk": {
@@ -19699,7 +19747,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T15:32:35.056152+00:00",
+  "generated_at": "2026-04-21T15:31:56.007338+00:00",
   "other_bucket": "OtherSports",
   "repo": "valavalkar/git-sweaty",
   "source": "strava",

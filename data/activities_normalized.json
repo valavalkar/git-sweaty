@@ -16820,5 +16820,44 @@
     "start_date_local": "2026-04-19T09:20:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 5369.1,
+    "elevation_gain": 50.0,
+    "id": "18192454470",
+    "moving_time": 2122.0,
+    "name": "18 meetings in a day does something to a man",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T20:12:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 8959.9,
+    "elevation_gain": 16.6,
+    "id": "18198336374",
+    "moving_time": 2614.0,
+    "name": "gorgeous miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T06:34:42Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 5386.9,
+    "elevation_gain": 74.7,
+    "id": "18198917318",
+    "moving_time": 1069.0,
+    "name": "to/from run start",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T06:03:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
