@@ -16859,5 +16859,18 @@
     "start_date_local": "2026-04-21T06:03:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18207459179",
+    "moving_time": 2556.0,
+    "name": "Illuminative",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-21T22:09:46Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
