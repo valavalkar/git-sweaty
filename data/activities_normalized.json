@@ -16872,5 +16872,18 @@
     "start_date_local": "2026-04-21T22:09:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 20023.3,
+    "elevation_gain": 172.8,
+    "id": "18220715303",
+    "moving_time": 6440.0,
+    "name": "holy flyby run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T18:21:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
