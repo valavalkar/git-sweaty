@@ -16911,5 +16911,18 @@
     "start_date_local": "2026-04-23T18:19:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 17359.1,
+    "elevation_gain": 329.6,
+    "id": "18243198787",
+    "moving_time": 5967.0,
+    "name": "btrt's horoscope told us to run twin peaks",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T06:44:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
