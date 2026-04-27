@@ -16937,5 +16937,18 @@
     "start_date_local": "2026-04-25T17:00:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 21740.7,
+    "elevation_gain": 223.6,
+    "id": "18272695866",
+    "moving_time": 7350.0,
+    "name": "around town half marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T08:57:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
