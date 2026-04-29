@@ -16950,5 +16950,31 @@
     "start_date_local": "2026-04-26T08:57:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 9677.2,
+    "elevation_gain": 0.0,
+    "id": "18302289701",
+    "moving_time": 2358.0,
+    "name": "trying to find the limit",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T20:16:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 4409.6,
+    "elevation_gain": 0.0,
+    "id": "18302363090",
+    "moving_time": 1913.0,
+    "name": "warm up/cool down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T19:46:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
