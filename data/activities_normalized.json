@@ -16976,5 +16976,18 @@
     "start_date_local": "2026-04-28T19:46:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 9681.0,
+    "elevation_gain": 83.0,
+    "id": "18307615710",
+    "moving_time": 3763.0,
+    "name": "good luck hong yi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-29T07:43:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
