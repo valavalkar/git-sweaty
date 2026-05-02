@@ -17002,5 +17002,18 @@
     "start_date_local": "2026-04-30T18:00:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 10936.5,
+    "elevation_gain": 121.4,
+    "id": "18334794102",
+    "moving_time": 4002.0,
+    "name": "Scandinavian BTRT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T06:46:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
