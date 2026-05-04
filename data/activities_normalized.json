@@ -17028,5 +17028,18 @@
     "start_date_local": "2026-05-02T17:25:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 16123.8,
+    "elevation_gain": 87.0,
+    "id": "18368011836",
+    "moving_time": 4618.0,
+    "name": "chased the muni home/ran home to make hainanese chicken",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T17:03:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
