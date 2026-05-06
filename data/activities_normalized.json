@@ -17061,11 +17061,37 @@
     "elevation_gain": 42.6,
     "id": "18386803119",
     "moving_time": 1549.0,
-    "name": "Evening Ride",
+    "name": "need to make this a segment",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-04T18:43:53Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 4544.7,
+    "elevation_gain": 36.6,
+    "id": "18388562544",
+    "moving_time": 956.0,
+    "name": "so tired",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-05T08:54:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 13568.9,
+    "elevation_gain": 17.0,
+    "id": "18394314284",
+    "moving_time": 3818.0,
+    "name": "sponsored by (soon to be) big yogurt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T19:16:55Z",
+    "type": "Run",
     "year": 2026
   }
 ]
