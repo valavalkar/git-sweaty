@@ -17106,5 +17106,18 @@
     "start_date_local": "2026-05-06T19:54:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18419070233",
+    "moving_time": 3800.0,
+    "name": "holy bum",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-07T15:44:00Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
