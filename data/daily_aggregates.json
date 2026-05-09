@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T15:35:25.657485+00:00",
+  "generated_at": "2026-05-09T15:21:56.790951+00:00",
   "years": {
     "1989": {
       "Workout": {
@@ -10489,6 +10489,15 @@
           "distance": 6491.1,
           "elevation_gain": 201.6,
           "moving_time": 2491.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18427050810"
+          ],
+          "count": 1,
+          "distance": 8288.3,
+          "elevation_gain": 91.0,
+          "moving_time": 3540.0
         }
       },
       "Walk": {
@@ -10835,6 +10844,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3800.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18431108007"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3231.0
         }
       }
     }

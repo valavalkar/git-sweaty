@@ -17119,5 +17119,31 @@
     "start_date_local": "2026-05-07T15:44:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 8288.3,
+    "elevation_gain": 91.0,
+    "id": "18427050810",
+    "moving_time": 3540.0,
+    "name": "matchas and friday miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T07:15:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18431108007",
+    "moving_time": 3231.0,
+    "name": "fitness sf working",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-08T15:14:48Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
