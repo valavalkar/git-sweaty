@@ -17145,5 +17145,18 @@
     "start_date_local": "2026-05-08T15:14:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 16329.4,
+    "elevation_gain": 8.0,
+    "id": "18452570562",
+    "moving_time": 5407.0,
+    "name": "Wings for Life 2026 \ud83e\udebd",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T04:02:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
