@@ -17171,5 +17171,18 @@
     "start_date_local": "2026-05-12T19:18:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 2435.5,
+    "elevation_gain": 136.0,
+    "id": "18531119890",
+    "moving_time": 935.0,
+    "name": "warm up and throwing up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T06:04:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
