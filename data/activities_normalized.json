@@ -17223,5 +17223,18 @@
     "start_date_local": "2026-05-22T06:53:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 8210.6,
+    "elevation_gain": 24.6,
+    "id": "18669753418",
+    "moving_time": 2777.0,
+    "name": "what am I even doing",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T19:13:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
