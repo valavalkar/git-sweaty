@@ -17236,5 +17236,31 @@
     "start_date_local": "2026-05-26T19:13:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 7158.5,
+    "elevation_gain": 24.0,
+    "id": "18683193286",
+    "moving_time": 2522.0,
+    "name": "small town loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T19:16:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 5224.0,
+    "elevation_gain": 39.8,
+    "id": "18688784747",
+    "moving_time": 1800.0,
+    "name": "Indy is the San Antonio of the Midwest",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T08:24:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
