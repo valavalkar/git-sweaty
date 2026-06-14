@@ -17379,5 +17379,18 @@
     "start_date_local": "2026-06-12T06:44:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 14844.4,
+    "elevation_gain": 131.8,
+    "id": "18907890906",
+    "moving_time": 5232.0,
+    "name": "three gems (of conversation) with Dhruva",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T10:06:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
