@@ -17392,5 +17392,18 @@
     "start_date_local": "2026-06-13T10:06:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 29081.0,
+    "elevation_gain": 418.2,
+    "id": "18920928935",
+    "moving_time": 11082.0,
+    "name": "post spurs loss depression",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T07:09:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
