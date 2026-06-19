@@ -17418,5 +17418,31 @@
     "start_date_local": "2026-06-16T19:17:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 7928.2,
+    "elevation_gain": 76.6,
+    "id": "18973827447",
+    "moving_time": 2662.0,
+    "name": "to dinner",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T20:01:41Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18978976072",
+    "moving_time": 3844.0,
+    "name": "gym",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-18T17:45:16Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
