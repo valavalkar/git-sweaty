@@ -17457,5 +17457,18 @@
     "start_date_local": "2026-06-19T06:44:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 42284.8,
+    "elevation_gain": 24.2,
+    "id": "19017626301",
+    "moving_time": 14100.0,
+    "name": "going in circles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T17:35:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
