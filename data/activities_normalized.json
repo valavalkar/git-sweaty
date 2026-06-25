@@ -17483,5 +17483,18 @@
     "start_date_local": "2026-06-23T19:12:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 15458.1,
+    "elevation_gain": 334.8,
+    "id": "19059152210",
+    "moving_time": 5926.0,
+    "name": "proof I don\u2019t just run hills on btrt fridays",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T19:17:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
