@@ -17522,5 +17522,31 @@
     "start_date_local": "2026-06-26T07:04:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19118125468",
+    "moving_time": 3013.0,
+    "name": "dexa and food from the weekend making me reprioritize the gym",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-29T20:33:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 4868.5,
+    "elevation_gain": 18.2,
+    "id": "19118456277",
+    "moving_time": 1834.0,
+    "name": "ole reliable",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-29T19:56:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
