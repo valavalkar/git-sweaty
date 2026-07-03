@@ -17587,5 +17587,18 @@
     "start_date_local": "2026-07-01T07:36:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 6783.0,
+    "elevation_gain": 22.0,
+    "id": "19152138647",
+    "moving_time": 2486.0,
+    "name": "BTRT CHAI EDITION",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-02T07:13:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
