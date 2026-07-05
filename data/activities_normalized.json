@@ -17600,5 +17600,18 @@
     "start_date_local": "2026-07-02T07:13:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 5098.6,
+    "elevation_gain": 73.4,
+    "id": "19183639504",
+    "moving_time": 1874.0,
+    "name": "i made sure to tell everyone I was American",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-04T20:06:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
