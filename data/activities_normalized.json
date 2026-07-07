@@ -17626,5 +17626,18 @@
     "start_date_local": "2026-07-05T12:24:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 5078.9,
+    "elevation_gain": 25.8,
+    "id": "19209857581",
+    "moving_time": 2001.0,
+    "name": "scared I was going to be eaten by a bear",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-06T22:57:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
