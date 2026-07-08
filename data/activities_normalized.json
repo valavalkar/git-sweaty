@@ -17639,5 +17639,18 @@
     "start_date_local": "2026-07-06T22:57:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 5087.2,
+    "elevation_gain": 84.6,
+    "id": "19223495874",
+    "moving_time": 2382.0,
+    "name": "work in coffee shop, run in nature pipeline",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T19:56:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
