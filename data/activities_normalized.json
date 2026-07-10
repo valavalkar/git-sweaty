@@ -17665,5 +17665,18 @@
     "start_date_local": "2026-07-08T22:39:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 5263.6,
+    "elevation_gain": 49.6,
+    "id": "19251280518",
+    "moving_time": 2020.0,
+    "name": "had to work on breathing with mouth closed so I wouldnt swallow 100 insects",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-09T21:56:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
