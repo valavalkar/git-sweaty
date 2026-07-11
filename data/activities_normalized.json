@@ -17678,5 +17678,18 @@
     "start_date_local": "2026-07-09T21:56:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 5223.1,
+    "elevation_gain": 24.8,
+    "id": "19260570632",
+    "moving_time": 1834.0,
+    "name": "btrt: banff??",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T09:56:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
