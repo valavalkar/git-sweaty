@@ -17691,5 +17691,18 @@
     "start_date_local": "2026-07-10T09:56:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 5079.3,
+    "elevation_gain": 34.6,
+    "id": "19273655259",
+    "moving_time": 1794.0,
+    "name": "exactly what you run from, you end up chasing",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-11T12:20:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
