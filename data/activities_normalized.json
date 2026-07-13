@@ -17704,5 +17704,31 @@
     "start_date_local": "2026-07-11T12:20:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19289353601",
+    "moving_time": 2336.0,
+    "name": "chest + back",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-12T20:49:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 5100.0,
+    "elevation_gain": 0.0,
+    "id": "19289480329",
+    "moving_time": 1716.0,
+    "name": "(D)tread",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T19:29:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
