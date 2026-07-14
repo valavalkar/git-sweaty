@@ -17730,5 +17730,31 @@
     "start_date_local": "2026-07-12T19:29:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19302809339",
+    "moving_time": 4250.0,
+    "name": "Arms",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-13T19:40:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 7737.1,
+    "elevation_gain": 97.4,
+    "id": "19303218880",
+    "moving_time": 2906.0,
+    "name": "H\u00e4agen-Dazs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-13T18:54:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
