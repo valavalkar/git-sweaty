@@ -17756,5 +17756,18 @@
     "start_date_local": "2026-07-13T18:54:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 9667.1,
+    "elevation_gain": 42.4,
+    "id": "19318857569",
+    "moving_time": 3142.0,
+    "name": "good yap",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T20:13:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
