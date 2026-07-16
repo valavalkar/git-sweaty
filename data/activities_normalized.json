@@ -17769,5 +17769,18 @@
     "start_date_local": "2026-07-14T20:13:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 5200.1,
+    "elevation_gain": 169.0,
+    "id": "19330727195",
+    "moving_time": 2273.0,
+    "name": "even the nike all conditions gear radical airflow shirt couldn\u2019t prepare me for how technical and steep this run was",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T17:51:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
