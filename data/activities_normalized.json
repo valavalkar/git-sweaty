@@ -17782,5 +17782,18 @@
     "start_date_local": "2026-07-15T17:51:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 6618.5,
+    "elevation_gain": 84.6,
+    "id": "19345663563",
+    "moving_time": 2638.0,
+    "name": "breaderick?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-16T22:10:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
