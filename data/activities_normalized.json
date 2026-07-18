@@ -17795,5 +17795,18 @@
     "start_date_local": "2026-07-16T22:10:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 13326.3,
+    "elevation_gain": 187.2,
+    "id": "19352274987",
+    "moving_time": 4997.0,
+    "name": "koping hard with btrt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-17T07:13:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
