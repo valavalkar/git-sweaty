@@ -17808,5 +17808,18 @@
     "start_date_local": "2026-07-17T07:13:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 12990.3,
+    "elevation_gain": 55.0,
+    "id": "19366802117",
+    "moving_time": 4974.0,
+    "name": "Happy 25 years SFRRC",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-18T08:56:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
