@@ -17821,5 +17821,18 @@
     "start_date_local": "2026-07-18T08:56:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 5292.0,
+    "elevation_gain": 42.0,
+    "id": "19384631389",
+    "moving_time": 2007.0,
+    "name": "post btrt pizza party run keeping my 5k streak alive",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T22:54:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
