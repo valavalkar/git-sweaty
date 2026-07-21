@@ -17834,5 +17834,31 @@
     "start_date_local": "2026-07-19T22:54:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19396776080",
+    "moving_time": 2750.0,
+    "name": "quick",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-20T17:57:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 5149.9,
+    "elevation_gain": 0.0,
+    "id": "19397006825",
+    "moving_time": 1800.0,
+    "name": "(tread)ing water",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-20T18:47:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
