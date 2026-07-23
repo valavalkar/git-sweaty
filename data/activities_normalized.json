@@ -17873,5 +17873,18 @@
     "start_date_local": "2026-07-21T18:22:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 7691.8,
+    "elevation_gain": 87.6,
+    "id": "19426942296",
+    "moving_time": 2582.0,
+    "name": "New Twine desk unlocked",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-22T20:43:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
