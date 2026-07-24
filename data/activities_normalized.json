@@ -17886,5 +17886,31 @@
     "start_date_local": "2026-07-22T20:43:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 5501.6,
+    "elevation_gain": 40.2,
+    "id": "19440369868",
+    "moving_time": 1986.0,
+    "name": "running every day is something else",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-23T19:27:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 7377.3,
+    "elevation_gain": 101.2,
+    "id": "19447116965",
+    "moving_time": 2709.0,
+    "name": "SPECTACULAR  morning with btrt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T07:13:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
