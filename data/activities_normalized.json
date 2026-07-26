@@ -17912,5 +17912,18 @@
     "start_date_local": "2026-07-24T07:13:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 42264.4,
+    "elevation_gain": 103.0,
+    "id": "19468771459",
+    "moving_time": 11653.0,
+    "name": "SF ULTRAMARATHON: night shift",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-25T22:15:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
