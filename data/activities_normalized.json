@@ -17925,5 +17925,57 @@
     "start_date_local": "2026-07-25T22:15:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 2974.3,
+    "elevation_gain": 0.0,
+    "id": "19493588842",
+    "moving_time": 989.0,
+    "name": "running with hyc to the finish of our ultra relay",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T08:43:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 5027.9,
+    "elevation_gain": 48.2,
+    "id": "19495403617",
+    "moving_time": 2826.0,
+    "name": "i think the coyote I saw tonight knew I could not run away from it",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-27T22:48:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19509578352",
+    "moving_time": 1320.0,
+    "name": "uhhhh",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-28T18:13:24Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 5362.5,
+    "elevation_gain": 52.4,
+    "id": "19509583346",
+    "moving_time": 2044.0,
+    "name": "the only act of rebellion is to enjoy the uphill climb",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T19:56:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
