@@ -17977,5 +17977,18 @@
     "start_date_local": "2026-07-28T19:56:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 5309.7,
+    "elevation_gain": 29.6,
+    "id": "19524019941",
+    "moving_time": 2024.0,
+    "name": "last month I said I think I could be happy anywhere in the country. I take that back. anywhere but Arizona.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-29T21:26:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
