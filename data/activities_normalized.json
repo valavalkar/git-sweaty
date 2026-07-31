@@ -17990,5 +17990,18 @@
     "start_date_local": "2026-07-29T21:26:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 6529.8,
+    "elevation_gain": 70.0,
+    "id": "19536643297",
+    "moving_time": 2441.0,
+    "name": "antelope island",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-30T17:40:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
