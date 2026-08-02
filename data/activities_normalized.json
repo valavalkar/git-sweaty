@@ -18016,5 +18016,31 @@
     "start_date_local": "2026-07-31T07:02:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 23691.4,
+    "elevation_gain": 158.5,
+    "id": "19571491427",
+    "moving_time": 4235.0,
+    "name": "pre and post happy birthday alice errands",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T17:26:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 9843.5,
+    "elevation_gain": 81.8,
+    "id": "19559319099",
+    "moving_time": 3480.0,
+    "name": "sad to announce that I am unfortunately NOT running the 2026 nyc marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-01T08:22:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
