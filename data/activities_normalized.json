@@ -18042,5 +18042,31 @@
     "start_date_local": "2026-08-01T08:22:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 19978.2,
+    "elevation_gain": 126.8,
+    "id": "19573957448",
+    "moving_time": 6776.0,
+    "name": "run with people faster than you | also hit 1000th mile for the year!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T09:09:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 8187.1,
+    "elevation_gain": 85.6,
+    "id": "19577616004",
+    "moving_time": 2836.0,
+    "name": "location scouting",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-02T19:23:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
