@@ -18068,5 +18068,44 @@
     "start_date_local": "2026-08-02T19:23:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 571.5,
+    "elevation_gain": 0.0,
+    "id": "19599595286",
+    "moving_time": 2651.0,
+    "name": "feels good to be back in the pool even though i was bumming around",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-03T20:56:05Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 5072.9,
+    "elevation_gain": 43.2,
+    "id": "19599595720",
+    "moving_time": 1998.0,
+    "name": "post swim run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-03T22:06:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 9207.0,
+    "elevation_gain": 63.6,
+    "id": "19599790067",
+    "moving_time": 1667.0,
+    "name": "basically did a tiny tri",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-03T18:20:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
