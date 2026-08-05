@@ -18107,5 +18107,31 @@
     "start_date_local": "2026-08-03T18:20:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 9963.7,
+    "elevation_gain": 55.4,
+    "id": "19606907768",
+    "moving_time": 2894.0,
+    "name": "now that was a serious track workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-04T19:09:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 8326.8,
+    "elevation_gain": 279.8,
+    "id": "19614080223",
+    "moving_time": 2956.0,
+    "name": "SKIED THE HILLS WITH BTRT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T07:10:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
