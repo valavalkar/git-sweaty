@@ -18133,5 +18133,18 @@
     "start_date_local": "2026-08-05T07:10:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 5027.5,
+    "elevation_gain": 83.8,
+    "id": "19635228074",
+    "moving_time": 1955.0,
+    "name": "it\u2019s so creepy running in a new city in the dark",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T21:29:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
