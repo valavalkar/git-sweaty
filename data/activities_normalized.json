@@ -18211,5 +18211,18 @@
     "start_date_local": "2026-08-11T21:29:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 5031.1,
+    "elevation_gain": 42.6,
+    "id": "19720333922",
+    "moving_time": 1918.0,
+    "name": "Phoenix 5k in the pouring rain",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-12T20:21:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
