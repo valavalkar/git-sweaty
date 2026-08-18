@@ -18289,5 +18289,18 @@
     "start_date_local": "2026-08-16T10:46:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 5047.8,
+    "elevation_gain": 98.2,
+    "id": "19788871511",
+    "moving_time": 2595.0,
+    "name": "got out of bed at 11:55 pm to run this",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-17T23:58:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
