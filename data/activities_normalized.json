@@ -18315,5 +18315,18 @@
     "start_date_local": "2026-08-18T23:50:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19886693172",
+    "moving_time": 3756.0,
+    "name": "back to chest",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-24T17:51:08Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
