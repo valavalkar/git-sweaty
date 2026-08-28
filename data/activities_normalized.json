@@ -18341,5 +18341,18 @@
     "start_date_local": "2026-08-25T18:24:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 8457.8,
+    "elevation_gain": 80.2,
+    "id": "19939689381",
+    "moving_time": 3090.0,
+    "name": "btrt: Saigonese Cafe",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-28T06:58:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
