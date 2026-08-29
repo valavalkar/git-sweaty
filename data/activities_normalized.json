@@ -18354,5 +18354,18 @@
     "start_date_local": "2026-08-28T06:58:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19944028760",
+    "moving_time": 2846.0,
+    "name": "arms",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-28T22:03:11Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
