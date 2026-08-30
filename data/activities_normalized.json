@@ -18367,5 +18367,18 @@
     "start_date_local": "2026-08-28T22:03:11Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 8065.1,
+    "elevation_gain": 29.6,
+    "id": "19956477453",
+    "moving_time": 3186.0,
+    "name": "Napa cafe/food tour",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T11:47:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
