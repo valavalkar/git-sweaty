@@ -18380,5 +18380,18 @@
     "start_date_local": "2026-08-29T11:47:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 8103.1,
+    "elevation_gain": 98.6,
+    "id": "20035089923",
+    "moving_time": 2944.0,
+    "name": "Thai tea today, thai tea yesterday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-04T07:13:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
