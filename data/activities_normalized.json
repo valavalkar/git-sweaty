@@ -18393,5 +18393,18 @@
     "start_date_local": "2026-09-04T07:13:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 7744.9,
+    "elevation_gain": 74.6,
+    "id": "20064371456",
+    "moving_time": 2687.0,
+    "name": "old Anand would have made sure I rounded up to 5 miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T08:14:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
