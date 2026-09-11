@@ -18432,5 +18432,31 @@
     "start_date_local": "2026-09-09T08:13:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20124831971",
+    "moving_time": 4799.0,
+    "name": "\ud83e\udef8",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-10T17:50:05Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 7976.8,
+    "elevation_gain": 50.2,
+    "id": "20132382015",
+    "moving_time": 2902.0,
+    "name": "sorry for fading you peter \ud83d\ude2c",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T07:17:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
