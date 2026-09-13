@@ -18471,5 +18471,18 @@
     "start_date_local": "2026-09-11T17:50:58Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 26125.2,
+    "elevation_gain": 289.8,
+    "id": "20148086956",
+    "moving_time": 9008.0,
+    "name": "Saturday long",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T08:10:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
