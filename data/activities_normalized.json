@@ -18484,5 +18484,18 @@
     "start_date_local": "2026-09-12T08:10:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20179024878",
+    "moving_time": 3463.0,
+    "name": "pushing delta to gimme the seat I want",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-14T18:00:16Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
