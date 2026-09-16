@@ -18497,5 +18497,18 @@
     "start_date_local": "2026-09-14T18:00:16Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 8494.5,
+    "elevation_gain": 96.2,
+    "id": "20194502840",
+    "moving_time": 3284.0,
+    "name": "I wish my run was in the shape of a pentagon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-15T20:19:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
