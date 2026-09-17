@@ -18510,5 +18510,18 @@
     "start_date_local": "2026-09-15T20:19:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 5288.8,
+    "elevation_gain": 40.6,
+    "id": "20208853804",
+    "moving_time": 1677.0,
+    "name": "i wanna get one of those notetaker rings so I can write down all the great ideas i have on my run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T19:44:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
