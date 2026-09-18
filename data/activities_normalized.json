@@ -18523,5 +18523,18 @@
     "start_date_local": "2026-09-16T19:44:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20221713802",
+    "moving_time": 3441.0,
+    "name": "one of everything",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-17T20:52:24Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
