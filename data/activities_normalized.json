@@ -18562,5 +18562,18 @@
     "start_date_local": "2026-09-19T11:39:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 4934.9,
+    "elevation_gain": 14.2,
+    "id": "20262437845",
+    "moving_time": 1649.0,
+    "name": "Pre Gregory Alan Isakov",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T18:18:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
