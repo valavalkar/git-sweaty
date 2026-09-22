@@ -18575,5 +18575,18 @@
     "start_date_local": "2026-09-20T18:18:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 26570.0,
+    "elevation_gain": 92.0,
+    "id": "20276445737",
+    "moving_time": 9997.0,
+    "name": "homerun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-21T17:56:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
