@@ -18614,5 +18614,31 @@
     "start_date_local": "2026-09-23T07:04:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 11273.5,
+    "elevation_gain": 61.8,
+    "id": "20318407046",
+    "moving_time": 4110.0,
+    "name": "forgot to take a picture with my boy so instead enjoy pictures of my food",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-24T17:13:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 9756.4,
+    "elevation_gain": 153.6,
+    "id": "20324997242",
+    "moving_time": 3609.0,
+    "name": "Happy mid autumn festival with BTRT!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-25T06:44:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
