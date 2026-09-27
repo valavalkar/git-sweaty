@@ -18640,5 +18640,18 @@
     "start_date_local": "2026-09-25T06:44:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 11282.7,
+    "elevation_gain": 138.2,
+    "id": "20342146308",
+    "moving_time": 4168.0,
+    "name": "new eight sleep unlocked",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T10:57:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
