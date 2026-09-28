@@ -18653,5 +18653,18 @@
     "start_date_local": "2026-09-26T10:57:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 25057.6,
+    "elevation_gain": 301.6,
+    "id": "20357508854",
+    "moving_time": 9269.0,
+    "name": "jigitz till 3 am, half Taco Bell ultra at 8 am",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T08:11:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
