@@ -18679,5 +18679,18 @@
     "start_date_local": "2026-09-28T19:27:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 17159.3,
+    "elevation_gain": 57.8,
+    "id": "20401741384",
+    "moving_time": 6010.0,
+    "name": "Airplanes and Pok\u00e9mon cards",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-30T17:46:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
