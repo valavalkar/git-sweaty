@@ -18692,5 +18692,31 @@
     "start_date_local": "2026-09-30T17:46:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 6461.2,
+    "elevation_gain": 76.0,
+    "id": "20415286449",
+    "moving_time": 2462.0,
+    "name": "crashed my fucking bike",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-01T19:07:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 7500.3,
+    "elevation_gain": 64.0,
+    "id": "20421528137",
+    "moving_time": 2877.0,
+    "name": "Kon(beanies)!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-02T07:13:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
