@@ -18718,5 +18718,31 @@
     "start_date_local": "2026-10-02T07:13:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 4857.8,
+    "elevation_gain": 4.0,
+    "id": "20441361962",
+    "moving_time": 1846.0,
+    "name": "Pinarello Shopping and American Academy of Pediatrics",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T19:35:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 5436.3,
+    "elevation_gain": 21.4,
+    "id": "20451578758",
+    "moving_time": 2166.0,
+    "name": "marina run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T09:45:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

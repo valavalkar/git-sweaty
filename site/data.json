@@ -10079,6 +10079,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 19,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 9,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21492,6 +21506,24 @@
           "distance": 7500.3,
           "elevation_gain": 64.0,
           "moving_time": 2877.0
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "20441361962"
+          ],
+          "count": 1,
+          "distance": 4857.8,
+          "elevation_gain": 4.0,
+          "moving_time": 1846.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20451578758"
+          ],
+          "count": 1,
+          "distance": 5436.3,
+          "elevation_gain": 21.4,
+          "moving_time": 2166.0
         }
       },
       "Swim": {
@@ -21997,7 +22029,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:32:16.218628+00:00",
+  "generated_at": "2026-10-04T18:31:32.826735+00:00",
   "other_bucket": "OtherSports",
   "repo": "valavalkar/git-sweaty",
   "source": "strava",
