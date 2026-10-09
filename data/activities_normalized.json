@@ -18770,5 +18770,18 @@
     "start_date_local": "2026-10-08T08:10:55Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 7044.1,
+    "elevation_gain": 25.0,
+    "id": "20517197246",
+    "moving_time": 2660.0,
+    "name": "Btrt va \u00e0 maison Nico",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-09T07:05:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
