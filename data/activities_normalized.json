@@ -18783,5 +18783,18 @@
     "start_date_local": "2026-10-09T07:05:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 21118.3,
+    "elevation_gain": 107.6,
+    "id": "20542962995",
+    "moving_time": 5115.0,
+    "name": "no stakes, all in. \ud83d\uddfd | Staten Island Half",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T08:09:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
