@@ -18796,5 +18796,18 @@
     "start_date_local": "2026-10-11T08:09:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 4151.8,
+    "elevation_gain": 89.0,
+    "id": "20561462554",
+    "moving_time": 1647.0,
+    "name": "keeping body warm by running to tasty hand pulled noodles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-12T18:46:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
