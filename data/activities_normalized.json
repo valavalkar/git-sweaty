@@ -18809,5 +18809,18 @@
     "start_date_local": "2026-10-12T18:46:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 3309.7,
+    "elevation_gain": 6.4,
+    "id": "20581672866",
+    "moving_time": 1312.0,
+    "name": "call me Mr. Delta Status from now on",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-14T06:48:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
