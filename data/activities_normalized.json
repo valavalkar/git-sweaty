@@ -18822,5 +18822,18 @@
     "start_date_local": "2026-10-14T06:48:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 18444.7,
+    "elevation_gain": 152.0,
+    "id": "20623427829",
+    "moving_time": 7405.0,
+    "name": "Cannot believe this guy is getting married today",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T07:56:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
