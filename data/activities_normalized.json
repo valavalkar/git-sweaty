@@ -18835,5 +18835,18 @@
     "start_date_local": "2026-10-17T07:56:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 1097.3,
+    "elevation_gain": 0.0,
+    "id": "20641947038",
+    "moving_time": 1366.0,
+    "name": "contemplative swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-18T19:28:53Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
