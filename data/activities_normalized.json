@@ -18848,5 +18848,18 @@
     "start_date_local": "2026-10-18T19:28:53Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 5009.9,
+    "elevation_gain": 43.8,
+    "id": "20700004194",
+    "moving_time": 1285.0,
+    "name": "blew up at the PestWorld 2026 Charity 5k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-23T07:06:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
