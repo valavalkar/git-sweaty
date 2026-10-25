@@ -18861,5 +18861,31 @@
     "start_date_local": "2026-10-23T07:06:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 337.8,
+    "elevation_gain": 0.0,
+    "id": "20720082137",
+    "moving_time": 550.0,
+    "name": "got freaked out during this",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-24T16:46:24Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 7026.7,
+    "elevation_gain": 30.8,
+    "id": "20727746334",
+    "moving_time": 2412.0,
+    "name": "holy exploding heart rate",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T09:59:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
