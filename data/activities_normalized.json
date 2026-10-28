@@ -18887,5 +18887,18 @@
     "start_date_local": "2026-10-25T09:59:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 8838.2,
+    "elevation_gain": 116.4,
+    "id": "20760285117",
+    "moving_time": 3439.0,
+    "name": "Austin is pretty cool ngl\u200d. Feat:",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-27T08:08:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
