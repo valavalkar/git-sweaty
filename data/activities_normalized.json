@@ -18939,5 +18939,18 @@
     "start_date_local": "2026-10-31T15:37:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 20937.0,
+    "elevation_gain": 102.9,
+    "id": "20823475815",
+    "moving_time": 8773.0,
+    "name": "running/biking/sightseeing/cheering around the nyc marathon",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-01T10:15:30Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
