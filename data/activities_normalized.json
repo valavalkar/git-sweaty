@@ -18952,5 +18952,31 @@
     "start_date_local": "2026-11-01T10:15:30Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 1920.2,
+    "elevation_gain": 0.0,
+    "id": "20837774573",
+    "moving_time": 2374.0,
+    "name": "lifetime dumbo pool is so nice",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-02T20:51:02Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 10722.6,
+    "elevation_gain": 101.4,
+    "id": "20843180394",
+    "moving_time": 3789.0,
+    "name": "last time I was in prospect park I was dying up the hill during Brooklyn half",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T07:43:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
