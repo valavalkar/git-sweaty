@@ -19017,5 +19017,18 @@
     "start_date_local": "2026-11-07T07:41:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 1828.8,
+    "elevation_gain": 0.0,
+    "id": "20902974488",
+    "moving_time": 2336.0,
+    "name": "forgetting what lap youre on and getting into rhythm is bliss",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-07T18:53:47Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
