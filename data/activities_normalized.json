@@ -19030,5 +19030,18 @@
     "start_date_local": "2026-11-07T18:53:47Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 18278.2,
+    "elevation_gain": 35.0,
+    "id": "20927846135",
+    "moving_time": 2433.0,
+    "name": "where does the sun go",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-09T16:49:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
