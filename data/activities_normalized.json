@@ -19056,5 +19056,44 @@
     "start_date_local": "2026-11-10T16:25:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 8713.3,
+    "elevation_gain": 158.8,
+    "id": "20954876720",
+    "moving_time": 1961.0,
+    "name": "i keep forgetting polo fields is closed till 6:30",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-11T15:48:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 2834.6,
+    "elevation_gain": 0.0,
+    "id": "20955850023",
+    "moving_time": 3710.0,
+    "name": "3000 straight",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-11T19:02:48Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 27801.5,
+    "elevation_gain": 50.0,
+    "id": "20961989562",
+    "moving_time": 3572.0,
+    "name": "going in circles",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-12T07:52:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
