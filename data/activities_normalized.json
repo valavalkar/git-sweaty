@@ -19095,5 +19095,31 @@
     "start_date_local": "2026-11-12T07:52:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 7169.0,
+    "elevation_gain": 234.2,
+    "id": "20991661938",
+    "moving_time": 3097.0,
+    "name": "quite literally the most gorgeous BTRT ever",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-13T07:10:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 2538.1,
+    "elevation_gain": 45.6,
+    "id": "20991541339",
+    "moving_time": 3405.0,
+    "name": "pretty sure I hallucinated a duck",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-14T16:13:21Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
