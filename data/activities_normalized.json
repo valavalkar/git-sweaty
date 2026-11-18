@@ -19134,5 +19134,18 @@
     "start_date_local": "2026-11-15T08:48:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 20021.6,
+    "elevation_gain": 141.0,
+    "id": "21029308527",
+    "moving_time": 3447.0,
+    "name": "why am I so cold",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-17T16:33:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

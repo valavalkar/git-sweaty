@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:46:13.173615+00:00",
+  "generated_at": "2026-11-18T22:28:38.133779+00:00",
   "years": {
     "1989": {
       "Workout": {
@@ -9816,6 +9816,15 @@
           "distance": 56005.7,
           "elevation_gain": 192.0,
           "moving_time": 9401.0
+        },
+        "2026-11-17": {
+          "activity_ids": [
+            "21029308527"
+          ],
+          "count": 1,
+          "distance": 20021.6,
+          "elevation_gain": 141.0,
+          "moving_time": 3447.0
         }
       },
       "RockClimbing": {
