@@ -19147,5 +19147,31 @@
     "start_date_local": "2026-11-17T16:33:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 4631.9,
+    "elevation_gain": 14.0,
+    "id": "21069403939",
+    "moving_time": 1306.0,
+    "name": "nike alphafly 4: first impressions",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-18T19:04:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 831.0,
+    "elevation_gain": 7.4,
+    "id": "21064356162",
+    "moving_time": 1418.0,
+    "name": "this is the stupidest thing I\u2019ve ever done",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-20T15:19:14Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
