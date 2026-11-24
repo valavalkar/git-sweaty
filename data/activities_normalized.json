@@ -19173,5 +19173,70 @@
     "start_date_local": "2026-11-20T15:19:14Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 644.6,
+    "elevation_gain": 6.2,
+    "id": "21092623447",
+    "moving_time": 958.0,
+    "name": "this is the second stupidest thing I\u2019ve ever done",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-21T09:08:08Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 9327.5,
+    "elevation_gain": 3.0,
+    "id": "21092746910",
+    "moving_time": 1916.0,
+    "name": "dropping off bike and run and bike bags",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-21T15:08:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 3765.0,
+    "elevation_gain": 62.8,
+    "id": "21092649441",
+    "moving_time": 4223.0,
+    "name": "IM Cozumel Swim: 2.4 Miles of Controlled Panic \ud83e\udeb8",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-22T07:41:54Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 181437.0,
+    "elevation_gain": 148.2,
+    "id": "21092743351",
+    "moving_time": 23545.0,
+    "name": "IM Cozumel Bike: 112 miles of increasingly poor decisions \ud83d\udeb4",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-22T09:04:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 42868.0,
+    "elevation_gain": 113.0,
+    "id": "21092806221",
+    "moving_time": 13757.0,
+    "name": "IM Cozumel Run: I AM AN IRONMAN \ud83d\udd14",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-22T15:49:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
