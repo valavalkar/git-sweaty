@@ -19228,15 +19228,28 @@
   },
   {
     "date": "2026-11-22",
-    "distance": 42868.0,
-    "elevation_gain": 113.0,
+    "distance": 42734.5,
+    "elevation_gain": 94.2,
     "id": "21092806221",
-    "moving_time": 13757.0,
+    "moving_time": 13727.0,
     "name": "IM Cozumel Run: I AM AN IRONMAN \ud83d\udd14",
     "raw_activity_type": "Run",
     "raw_type": "Run",
-    "start_date_local": "2026-11-22T15:49:59Z",
+    "start_date_local": "2026-11-22T15:50:31Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 14074.1,
+    "elevation_gain": 238.0,
+    "id": "21121036641",
+    "moving_time": 2540.0,
+    "name": "up and down",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-25T06:40:54Z",
+    "type": "Ride",
     "year": 2026
   }
 ]

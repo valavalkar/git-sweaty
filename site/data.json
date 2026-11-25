@@ -10359,6 +10359,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-11-25",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20204,6 +20211,15 @@
           "distance": 181437.0,
           "elevation_gain": 148.2,
           "moving_time": 23545.0
+        },
+        "2026-11-25": {
+          "activity_ids": [
+            "21121036641"
+          ],
+          "count": 1,
+          "distance": 14074.1,
+          "elevation_gain": 238.0,
+          "moving_time": 2540.0
         }
       },
       "RockClimbing": {
@@ -22030,9 +22046,9 @@
             "21092806221"
           ],
           "count": 1,
-          "distance": 42868.0,
-          "elevation_gain": 113.0,
-          "moving_time": 13757.0
+          "distance": 42734.5,
+          "elevation_gain": 94.2,
+          "moving_time": 13727.0
         }
       },
       "Swim": {
@@ -22639,7 +22655,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T23:45:37.937459+00:00",
+  "generated_at": "2026-11-25T23:28:05.088751+00:00",
   "other_bucket": "OtherSports",
   "repo": "valavalkar/git-sweaty",
   "source": "strava",
