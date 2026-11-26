@@ -19251,5 +19251,18 @@
     "start_date_local": "2026-11-25T06:40:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 5024.1,
+    "elevation_gain": 69.3,
+    "id": "21133888452",
+    "moving_time": 1214.0,
+    "name": "Marin Turkey Trot year 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T08:30:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
