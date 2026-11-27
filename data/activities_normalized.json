@@ -19264,5 +19264,18 @@
     "start_date_local": "2026-11-26T08:30:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 9864.2,
+    "elevation_gain": 75.0,
+    "id": "21145765124",
+    "moving_time": 3928.0,
+    "name": "I LOVE SF AND I LOVE BTRT",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-27T08:10:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
